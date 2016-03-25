@@ -1,0 +1,159 @@
+\begin{thebibliography}{10}
+
+\bibitem{arbia_effects_2013}
+Giuseppe Arbia and Francesca Petrarca.
+\newblock Effects of scale in spatial interaction models.
+\newblock {\em Journal of Geographical Systems}, 15(3):249--264, July 2013.
+
+\bibitem{batty_big_2013}
+Michael Batty.
+\newblock Big data, smart cities and city planning.
+\newblock {\em Dialogues in Human Geography}, 3(3):274--279, November 2013.
+
+\bibitem{batty_data_2015}
+Michael Batty.
+\newblock Data {About} {Cities}: {Redefining} {Big}, {Recasting} {Small}.
+\newblock Working {Paper} 203, UCL, London, August 2015.
+
+\bibitem{berglund_identifying_1999}
+Svante Berglund and Anders Karlstr�m.
+\newblock Identifying local spatial association in flow data.
+\newblock {\em Journal of Geographical Systems}, 1(3):219--236, 1999.
+
+\bibitem{berry_spatial_2008}
+Brian~JL Berry, Daniel~A. Griffith, and Michael~R. Tiefelsdorf.
+\newblock From spatial analysis to geospatial science.
+\newblock {\em Geographical Analysis}, 40(3):229--238, 2008.
+
+\bibitem{black_network_1992}
+William~R. Black.
+\newblock Network autocorrelation in transport network and flow systems.
+\newblock {\em Geographical Analysis}, 24(3):207--222, 1992.
+
+\bibitem{chun_modeling_2011}
+Yongwan Chun and Daniel~A. Griffith.
+\newblock Modeling {Network} {Autocorrelation} in {Space}–{Time} {Migration}
+  {Flow} {Data}: {An} {Eigenvector} {Spatial} {Filtering} {Approach}.
+\newblock {\em Annals of the Association of American Geographers},
+  101(3):523--536, April 2011.
+
+\bibitem{chun_modeling_2012}
+Yongwan Chun, Hyun Kim, and Changjoo Kim.
+\newblock Modeling interregional commodity flows with incorporating network
+  autocorrelation in spatial interaction models: {An} application of the {US}
+  interstate commodity flows.
+\newblock {\em Computers, Environment and Urban Systems}, 36(6):583--591,
+  November 2012.
+
+\bibitem{fotheringham_quantitative_2007}
+A.~S. Fotheringham, C.~Brundson, and M.~Charlton.
+\newblock {\em Quantitative {Geography}}.
+\newblock SAGE Publications Ltd, London, 2007.
+
+\bibitem{fotheringham_problem_2009}
+A.~Stewart Fotheringham.
+\newblock “{The} problem of spatial autocorrelation” and local spatial
+  statistics.
+\newblock {\em Geographical analysis}, 41(4):398--403, 2009.
+
+\bibitem{fotheringham_modifiable_1991}
+A.S. Fotheringham and D.~W.~S. Wong.
+\newblock The modifiable areal unit problem in multivariate statistical
+  analyses.
+\newblock {\em Environemnt and Planning A}, 23:1025--1044, 1991.
+
+\bibitem{griffith_spatial_1996}
+Daniel~A. Griffith.
+\newblock {SPATIAL} {AUTOCORRELATION} and {EIGENFUNCTIONS} {OF} {THE}
+  {GEOGRAPHIC} {WEIGHTS} {MATRIX} {ACCOMPANYING} {GEO}-{REFERENCED} {DATA}.
+\newblock {\em Canadian Geographer / Le Géographe canadien}, 40(4):351--367,
+  1996.
+
+\bibitem{griffith_modeling_2009}
+Daniel~A. Griffith.
+\newblock Modeling spatial autocorrelation in spatial interaction data:
+  empirical evidence from 2002 {Germany} journey-to-work flows.
+\newblock {\em Journal of Geographical Systems}, 11(2):117--140, 2009.
+
+\bibitem{griffith_spatial_2015}
+Daniel~A. Griffith and Yongwan Chun.
+\newblock Spatial {Autocorrelation} in {Spatial} {Interactions} {Models}:
+  {Geographic} {Scale} and {Resolution} {Implications} for {Network}
+  {Resilience} and {Vulnerability}.
+\newblock {\em Networks and Spatial Economics}, 15(2):337--365, June 2015.
+
+\bibitem{griffith_equation_2007}
+Daniel~A. Griffith and Jean H.~P. Paelinck.
+\newblock An equation by any other name is still the same: on spatial
+  econometrics and spatial statistics.
+\newblock {\em The Annals of Regional Science}, 41(1):209--227, January 2007.
+
+\bibitem{johnston_quantitative_2008}
+Ron Johnston.
+\newblock Quantitative {Human} {Geography}: {Are} {We} {Turning} {Full}
+  {Circle}?
+\newblock {\em Geographical Analysis}, 40(3):332--335, July 2008.
+
+\bibitem{kitchin_real-time_2014}
+Rob Kitchin.
+\newblock The real-time city? {Big} data and smart urbanism.
+\newblock {\em GeoJournal}, 79(1):1--14, 2014.
+
+\bibitem{lesage_biggest_2014}
+James LeSage and R.~Pace.
+\newblock The {Biggest} {Myth} in {Spatial} {Econometrics}.
+\newblock {\em Econometrics}, 2(4):217--249, December 2014.
+
+\bibitem{lesage_spatial_2014}
+James~P. LeSage and Manfred~M. Fischer.
+\newblock Spatial regression-based model specifications for exogenous and
+  endogenous spatial interaction.
+\newblock {\em Available at SSRN 2420746}, 2014.
+
+\bibitem{lesage_spatial_2008}
+James~P. LeSage and R.~Kelley Pace.
+\newblock {SPATIAL} {ECONOMETRIC} {MODELING} {OF} {ORIGIN}-{DESTINATION}
+  {FLOWS}*.
+\newblock {\em Journal of Regional Science}, 48(5):941--967, December 2008.
+
+\bibitem{lesage_interpreting_2015}
+James~P. LeSage and Christine Thomas-Agnan.
+\newblock Interpreting {Spatial} {Econometric} {Origin}-{Destination} {Flow}
+  {Models}.
+\newblock {\em Journal of Regional Science}, 55(2):188--208, March 2015.
+
+\bibitem{liu_measuring_2014}
+Yu~Liu, Daoqin Tong, and Xi~Liu.
+\newblock Measuring {Spatial} {Autocorrelation} of {Vectors}: {Measuring}
+  {Spatial} {Autocorrelation} of {Vectors}.
+\newblock {\em Geographical Analysis}, pages n/a--n/a, December 2014.
+
+\bibitem{lovelace_big_2015}
+Robin Lovelace, Mark Birkin, Philip Cross, and Martin Clarke.
+\newblock From {Big} {Noise} to {Big} {Data}: {Toward} the {Verification} of
+  {Large} {Data} sets for {Understanding} {Regional} {Retail} {Flows}: {From}
+  {Big} {Noise} to {Big} {Data}.
+\newblock {\em Geographical Analysis}, pages n/a--n/a, August 2015.
+
+\bibitem{murray_quantitative_2010}
+Alan~T. Murray.
+\newblock Quantitative {Geography}.
+\newblock {\em Journal of Regional Science}, 50(1):143--163, February 2010.
+
+\bibitem{rae_putting_2015}
+Alasdair Rae and Alex Singleton.
+\newblock Putting big data in its place: a {Regional} {Studies} and {Regional}
+  {Science} perspective.
+\newblock {\em Regional Studies, Regional Science}, 2(1):1--5, January 2015.
+
+\bibitem{rey_rank-based_2014}
+Sergio Rey.
+\newblock Rank-based {Markov} chains for regional income distribution dynamics.
+\newblock {\em Journal of Geographical Systems}, 16(2):115--137, April 2014.
+
+\bibitem{rey_spatial_2001}
+Sergio~J. Rey.
+\newblock Spatial empirics for economic growth and convergence.
+\newblock {\em Geographical Analysis}, 33(3):195--214, 2001.
+
+\end{thebibliography}
